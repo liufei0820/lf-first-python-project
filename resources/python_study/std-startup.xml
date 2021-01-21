@@ -1,0 +1,9 @@
+<aiml version="1.0.1" encoding="utf-8">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+    </category>
+
+    <template>
+        <learn>/Users/apple/Documents/git-source/python-source/my-python-project/resources/python_study/basic_chat.aiml</learn>
+    </template>
+</aiml>
