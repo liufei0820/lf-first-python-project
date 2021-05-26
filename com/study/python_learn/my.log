@@ -1,0 +1,16 @@
+2021-01-22 15:32:25,483 - DEBUG - this is a debug log
+2021-01-22 15:32:25,484 - INFO - this is a info log
+2021-01-22 15:32:25,485 - WARNING - this is a warning log
+2021-01-22 15:32:25,486 - ERROR - this is a error log
+2021-01-22 15:37:11,085 - DEBUG - this is a debug log
+2021-01-22 15:37:11,086 - INFO - this is a info log
+2021-01-22 15:37:11,086 - WARNING - this is a warning log
+2021-01-22 15:37:11,086 - ERROR - this is a error log
+2021-01-22 15:37:27,079 - DEBUG - this is a debug log
+2021-01-22 15:37:27,080 - INFO - this is a info log
+2021-01-22 15:37:27,080 - WARNING - this is a warning log
+2021-01-22 15:37:27,080 - ERROR - this is a error log
+2021/01/22 15:37:43 - DEBUG - this is a debug log
+2021/01/22 15:37:43 - INFO - this is a info log
+2021/01/22 15:37:43 - WARNING - this is a warning log
+2021/01/22 15:37:43 - ERROR - this is a error log

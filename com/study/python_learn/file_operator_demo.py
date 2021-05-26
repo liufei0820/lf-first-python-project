@@ -3,15 +3,15 @@
 # @Time    : 2021-01-22 09:52
 # @Author  : fei.liu
 
-def read_file1():
-    f = open("exception_demo.py", encoding="utf8")
-    while True:
-        z = f.read(10)
-        print(z)
-        if z is "":
-            break
-
-    f.close()
+# def read_file1():
+#     f = open("exception_demo.py", encoding="utf8")
+#     while True:
+#         z = f.read(10)
+#         print(z)
+#         if z is "":
+#             break
+#
+#     f.close()
 
 # read_file1()
 
